@@ -1,0 +1,17 @@
+/Users/anissa/Documents/M2/S1/C#/Hanja_dictionary/hanja_dictionary/bin/Debug/net8.0/hanja_dictionary
+/Users/anissa/Documents/M2/S1/C#/Hanja_dictionary/hanja_dictionary/bin/Debug/net8.0/hanja_dictionary.deps.json
+/Users/anissa/Documents/M2/S1/C#/Hanja_dictionary/hanja_dictionary/bin/Debug/net8.0/hanja_dictionary.runtimeconfig.json
+/Users/anissa/Documents/M2/S1/C#/Hanja_dictionary/hanja_dictionary/bin/Debug/net8.0/hanja_dictionary.dll
+/Users/anissa/Documents/M2/S1/C#/Hanja_dictionary/hanja_dictionary/bin/Debug/net8.0/hanja_dictionary.pdb
+/Users/anissa/Documents/M2/S1/C#/Hanja_dictionary/hanja_dictionary/obj/Debug/net8.0/hanja_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anissa/Documents/M2/S1/C#/Hanja_dictionary/hanja_dictionary/obj/Debug/net8.0/hanja_dictionary.AssemblyInfoInputs.cache
+/Users/anissa/Documents/M2/S1/C#/Hanja_dictionary/hanja_dictionary/obj/Debug/net8.0/hanja_dictionary.AssemblyInfo.cs
+/Users/anissa/Documents/M2/S1/C#/Hanja_dictionary/hanja_dictionary/obj/Debug/net8.0/hanja_dictionary.csproj.CoreCompileInputs.cache
+/Users/anissa/Documents/M2/S1/C#/Hanja_dictionary/hanja_dictionary/obj/Debug/net8.0/hanja_dictionary.dll
+/Users/anissa/Documents/M2/S1/C#/Hanja_dictionary/hanja_dictionary/obj/Debug/net8.0/refint/hanja_dictionary.dll
+/Users/anissa/Documents/M2/S1/C#/Hanja_dictionary/hanja_dictionary/obj/Debug/net8.0/hanja_dictionary.pdb
+/Users/anissa/Documents/M2/S1/C#/Hanja_dictionary/hanja_dictionary/obj/Debug/net8.0/hanja_dictionary.genruntimeconfig.cache
+/Users/anissa/Documents/M2/S1/C#/Hanja_dictionary/hanja_dictionary/obj/Debug/net8.0/ref/hanja_dictionary.dll
+/Users/anissa/Documents/M2/S1/C#/Hanja_dictionary/hanja_dictionary/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/anissa/Documents/M2/S1/C#/Hanja_dictionary/hanja_dictionary/obj/Debug/net8.0/hanja_dictionary.csproj.AssemblyReference.cache
+/Users/anissa/Documents/M2/S1/C#/Hanja_dictionary/hanja_dictionary/obj/Debug/net8.0/hanja_di.B7785D5B.Up2Date
